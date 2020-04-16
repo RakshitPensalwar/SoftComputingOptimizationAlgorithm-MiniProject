@@ -1,4 +1,4 @@
-# SoftComputingOptimizationArchitecture-MiniProject
+# SoftComputingOptimizationAlgorithm-MiniProject
 Travelling Salesman Problem using Particle Swarm Optimization
 
 This is the final year mini project of COMPUTER SCIENCE students for the subject SCOA on the topic TRAVELLING SALESMAN PROBLEM using PSO.
