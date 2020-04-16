@@ -1,2 +1,2 @@
-# SoftComputingOrganizationArchitecture-MiniProject
+# SoftComputingOptimizationArchitecture-MiniProject
 Travelling Salesman Problem using Particle Swarm Optimization
